@@ -1,0 +1,54 @@
+/* Styling for body */
+
+body {
+  background-color: khaki;
+}
+
+/* Styling for main and sub headings  */
+h1 {
+  
+  color: darkolivegreen;
+  text-align: center; 
+  font-size: 60px;
+}
+
+h3 {
+  color:olivedrab;
+  font-size: 30.72px;
+}
+
+/* Styling for paragraph text and placement in web page  */
+p {
+  display: flex;
+  
+  margin: 70px;
+  text-align:;
+  font-size: 25px;
+
+}
+
+/* Styling for links: hover, active, visited */
+a:visited {
+  color:darkviolet;
+}
+
+a:hover {
+  color: darkcyan;
+  background-color:wheat;
+  text-decoration-style:wavy;
+  font-size: 25px;
+}
+
+a:active {
+  color:darkred;
+}
+
+
+/* Class to center and increase font of links */
+.links {
+  display:flex;
+  justify-content: space-around; 
+  
+  font-size: 23.75px; 
+}
+
