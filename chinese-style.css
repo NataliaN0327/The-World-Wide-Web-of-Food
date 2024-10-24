@@ -1,0 +1,44 @@
+body {
+  background-color: khaki;
+}
+
+h1{
+  color: darkolivegreen;
+}
+
+h3{
+  color: olivedrab;
+}
+
+h6 {
+  text-align: right
+}
+
+a:visited {
+  color:darkviolet;
+}
+
+a:hover {
+  color: darkcyan;
+  background-color:wheat;
+  text-decoration-style:wavy;
+  font-size: 18px;
+}
+
+a:active {
+  color:darkred;
+}
+
+img {
+  height:175px;
+}
+
+p {
+  width:30%;
+}
+
+.link{
+  display:flex;
+  justify-content: center;
+}
+
